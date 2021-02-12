@@ -1,0 +1,21 @@
+alt - alternative text
+
+href - hyper reference
+
+target = "_blank" - to open link in next tab (if don't use this by default link will be open in same tab)
+<img src="pathofimage/imagename.extension"> - to locate image from another folder	ie, <img src="images/social-flickr.png">
+text-decoration: none; - it will remove underline from hyperlinks
+
+div - devide (it will divide our page in different parts)
+
+margin: parameter	-  margin : top right bottom left;   (imagine clock to remember this)
+
+# example to include mail(with subject) in the website.
+<a href="mailto:yes@happybirthdaydude.lol?Subject=Yes I'm Coming" target="_blank">yes@happybirthdaydude.lol</a>
+
+
+----------------------------
+important topics | OneMonth
+----------------------------
+
+Week 3 - Pixels, Ems, and Rems (Oh My!)
